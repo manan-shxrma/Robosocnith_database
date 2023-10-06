@@ -1,0 +1,1 @@
+This contains the details of sumo bot. This was made by the members of Robotics Soceity NITH. The members included Sarika Lakhotia , Mahima Gaur , Milind Gupta and Manan Sharma. It participated in annual technical fest of IIT MANDI and stood on 1st rank. 
