@@ -1,0 +1,25 @@
+body {
+    background: rgb(52, 52, 76);
+    text-align: center;
+    color: white;
+}
+h1 {
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+}
+#messg {
+    font-size: 30px;
+}
+p {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+button {
+    padding: 20px;
+    margin: 4px;
+    background: paleturquoise;
+    border-radius: 12px;
+    border: none;
+}
