@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html body{
+    height: 100%;
+    width: 100%;
+    
+    
+}
+.page1{
+    height: 100vh;
+    width: 100vw;
+   
+    
+}
+.page1 ::before{
+    content: "";
+    background: url('pngimg.com - bodybuilding_PNG84.png') no-repeat center center/cover;
+    position: absolute;
+    height: 100vh;
+    width: 100vw;
+}
+
+.page2{
+    height: 100vh;
+    width: 100vw;
+   
+    
+}
+.page2 ::before{
+    content: "";
+    background: url('pexels-tima-miroshnichenko-5319099 (2160p).mp4') no-repeat center center/cover;
+    position: absolute;
+    height: 100vh;
+    width: 100vw;
+    z-index: -2;
+}
