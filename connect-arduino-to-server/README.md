@@ -11,7 +11,6 @@
 
 1. Arduino Uno
 2. ESP8266 module
-3. Jumper Wires
 
 ## Software
 
